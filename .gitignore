@@ -1,0 +1,2 @@
+# ignore files with extension `.pdf' in `/Resources/' directory-tree anywhere in the worktree
+**/Resources/*.pdf
